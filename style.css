@@ -85,7 +85,7 @@ body {
   align-items: center;
   width: 24%;
   max-width: 285px;
-  height: 360px;
+  height: 370px;
   margin-bottom: 30px;
   background-color: #ffffff;
   border: 1px solid transparent;
@@ -114,10 +114,21 @@ body {
 }
 
 .container-2 ul li button {
-  width: 100%;
+   width: 260px;
+  height: 30px;
+  background-color: #4c6ef5;
+  color: #ffffff;
+  text-transform: uppercase;
+  border-color: transparent;
+  border-radius: 8px;
+
 
 }
 
+.container-2:hover ul li button {
+
+  background-color: #1340f3;
+}
 
 
 
